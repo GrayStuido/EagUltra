@@ -9,15 +9,3 @@ arising out of or in connection with the use or distribution of the files.
 Users also agree to waive any and all claims they may have against the creator or developer of the files,
 and to indemnify and hold them harmless from any claims, damages, liabilities, losses, costs and expenses,
 including reasonable attorneys' fees, incurred as a result of their use or distribution of the files.
-
-Fracture acknowledges and agrees that it is solely responsible for the distribution 
-of any files that circumvent school restrictions and violate school policies. 
-Fracture also agrees to indemnify and hold harmless any creator or developer of such files from any and all claims,
-demands, liabilities, damages, losses, costs, and expenses (including reasonable attorney's fees) 
-arising out of or in connection with the distribution or use of such files.
-Furthermore, Fracture understands and acknowledges that the distribution of such files may violate school policies 
-and regulations, and may result in disciplinary action, legal consequences, or other penalties. 
-Fracture assumes all risks associated with the distribution and use of such 
-files and agrees to defend, indemnify and hold harmless the creator or developer of such files 
-from any and all claims, damages, liabilities, losses, costs and expenses, 
-including reasonable attorneys' fees, arising out of or in connection with any use or distribution of the files.
