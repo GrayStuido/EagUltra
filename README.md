@@ -1,5 +1,36 @@
 # EaglercraftUltra
+Mod By GrayStuido
 --
+
+# Features
+
+Custom Start Menu
+--
+
+Cloaked As Wikipedia
+--
+
+Screen Hider
+--
+
+# WIP
+
+More Config Options
+--
+[█▒▒▒▒▒▒▒▒▒]
+
+
+# Credits
+
+LaxDude1
+--
+Creator Of Eaglercraft
+
+Raith
+--
+GithubHotLoad Code
+
+
 # User Agreement
 By downloading or using any of the files distributed by Fracture, 
 users agree to assume all risks and responsibilities associated with their use.
