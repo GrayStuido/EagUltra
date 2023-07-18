@@ -1,23 +1,28 @@
 # EaglercraftUltra
-Mod By GrayStuido
---
+### Mod By GrayStuido
+
+---
 
 # Features
 
-Custom Start Menu
---
+- Custom Start Menu
 
-Cloaked As Wikipedia
---
+- Wikipedia Cloak
 
-Screen Hider
---
+- Screen Hider
+
+
+--- 
+
 
 # WIP
 
 More Config Options
 --
 [█▒▒▒▒▒▒▒▒▒]
+
+
+---
 
 
 # Credits
@@ -30,6 +35,7 @@ Raith
 --
 GithubHotLoad Code
 
+---
 
 # User Agreement
 By downloading or using any of the files distributed by Fracture, 
