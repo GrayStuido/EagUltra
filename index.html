@@ -2,10 +2,15 @@
 body {
 background: #030303;
 }
-  .iframe {
+iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
 background: #ffffff;
-    width: 100%; 
-    height: 100%;
+}
+  .iframe-wrapper {
     overflow: hidden;
     display: flex;
     justify-content: center;
@@ -17,4 +22,6 @@ background: #ffffff;
     max-height: 100%;
   }
 </style>
+<div id="iframe-wrapper">
 <iframe class="iframe" src="Index.html" frameborder="0" allowfullscreen></iframe>
+</div>
