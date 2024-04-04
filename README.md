@@ -3,6 +3,7 @@
 
 ---
 
+This project is finished and updates will no longer be added. cry about it.
 
 
 # Fracture User Agreement
@@ -29,24 +30,8 @@ including reasonable attorneys' fees, incurred as a result of their use or distr
 --- 
 
 
-# WIP
-
-More Config Options
---
-[█▒▒▒▒▒▒▒▒▒]
-
-
----
-
-
 # Credits
 
 LaxDude1
 --
 Creator Of Eaglercraft
-
-Raith
---
-GithubHotLoad Code
-
---- 
